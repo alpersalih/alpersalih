@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hey there! I'm Alper Salih 👋
 
-<!--
-**alpersalih/alpersalih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a Computer Engineering student at Sakarya University, passionate about AI and systems programming.
 
-Here are some ideas to get you started:
+🚀 I work with:
+- 🧠 Artificial Intelligence, Machine Learning & Deep Learning
+- 🔌 Integrating AI models into real-world systems and applications
+- 💡 C, C++, C#, and Python
+- 🛠️ Real-time & Embedded Systems
+- 🔍 Data Science & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Currently working on:
+- Smart systems powered by AI
+- ML & DL models deployed in real applications
+- Connecting intelligent models to software systems for automation and decision making
+
+🎯 Always learning, always building.
+
+📌 Let’s connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/alpersalih/)
+
+---
+💬 *“Turning smart ideas into smarter systems.”*
